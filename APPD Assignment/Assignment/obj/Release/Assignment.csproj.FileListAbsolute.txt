@@ -1,0 +1,16 @@
+C:\Users\Owner\Desktop\APPD Assignment\Assignment\bin\Release\Assignment.exe.config
+C:\Users\Owner\Desktop\APPD Assignment\Assignment\bin\Release\Assignment.exe
+C:\Users\Owner\Desktop\APPD Assignment\Assignment\bin\Release\Assignment.pdb
+C:\Users\Owner\Desktop\APPD Assignment\Assignment\obj\Release\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\APPD Assignment\Assignment\obj\Release\Assignment.registerFree.resources
+C:\Users\Owner\Desktop\APPD Assignment\Assignment\obj\Release\Assignment.registerPremium.resources
+C:\Users\Owner\Desktop\APPD Assignment\Assignment\obj\Release\Assignment.touristPage.resources
+C:\Users\Owner\Desktop\APPD Assignment\Assignment\obj\Release\Assignment.registrationPage.resources
+C:\Users\Owner\Desktop\APPD Assignment\Assignment\obj\Release\Assignment.loginPage.resources
+C:\Users\Owner\Desktop\APPD Assignment\Assignment\obj\Release\Assignment.MainWindow.resources
+C:\Users\Owner\Desktop\APPD Assignment\Assignment\obj\Release\Assignment.tourDetailPage.resources
+C:\Users\Owner\Desktop\APPD Assignment\Assignment\obj\Release\Assignment.welcomePage.resources
+C:\Users\Owner\Desktop\APPD Assignment\Assignment\obj\Release\Assignment.Properties.Resources.resources
+C:\Users\Owner\Desktop\APPD Assignment\Assignment\obj\Release\Assignment.csproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\APPD Assignment\Assignment\obj\Release\Assignment.exe
+C:\Users\Owner\Desktop\APPD Assignment\Assignment\obj\Release\Assignment.pdb
